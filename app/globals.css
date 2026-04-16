@@ -4,21 +4,21 @@
 
 @layer base {
   :root {
-    /* Near-black, with a slight warm tilt so amber looks at home */
-    --background: 24 10% 5%;
-    --foreground: 36 20% 92%;
+    /* True charcoal, neutral (no warm or cool tilt) */
+    --background: 240 2% 9%;
+    --foreground: 60 5% 91%;
 
-    --surface: 24 8% 8%;
+    --surface: 240 3% 12%;
 
-    --muted: 24 6% 14%;
-    --muted-foreground: 30 8% 58%;
+    --muted: 240 3% 15%;
+    --muted-foreground: 50 4% 55%;
 
-    --border: 24 6% 16%;
-    --ring: 36 90% 56%;
+    --border: 240 3% 19%;
+    --ring: 101 32% 55%;
 
-    /* Warm amber */
-    --accent: 36 90% 56%;
-    --accent-foreground: 24 10% 5%;
+    /* Sage green accent */
+    --accent: 101 32% 55%;
+    --accent-foreground: 240 2% 9%;
   }
 
   html {

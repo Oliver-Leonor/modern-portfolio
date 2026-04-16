@@ -13,7 +13,7 @@ export function Philosophy() {
         </div>
 
         <blockquote className="relative">
-          {/* Decorative oversized amber quote mark */}
+          {/* Decorative oversized quote mark */}
           <span
             aria-hidden
             className="absolute -left-1 -top-10 font-serif text-[7rem] leading-none text-accent/25 select-none"

@@ -16,7 +16,7 @@ const plexMono = IBM_Plex_Mono({
   display: "swap",
 });
 
-const SITE_URL = "https://portfolio-seven-dusky-as7n5k6lxt.vercel.app";
+const SITE_URL = "https://oliver-leonor.vercel.app";
 const TITLE = "Oliver Leonor | Full-stack developer & AI engineer";
 const DESCRIPTION =
   "I ship AI-native full-stack apps end to end with Claude Code. Fourteen years in IT, six shipping production software. Available for senior contract or full-time roles, PH / AU timezone.";
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#0c0b0a",
+  themeColor: "#161617",
   width: "device-width",
   initialScale: 1,
 };
